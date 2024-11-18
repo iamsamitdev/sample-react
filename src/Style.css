@@ -1,0 +1,9 @@
+.myStyle {
+    color: teal;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.myContent {
+    border: 1px solid black;
+}
